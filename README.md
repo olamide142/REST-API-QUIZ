@@ -1,2 +1,1 @@
-# REST-API-QUIZ
-# Rest-API-Quiz
+Rest-API-Quiz
